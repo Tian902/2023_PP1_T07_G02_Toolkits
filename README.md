@@ -3,6 +3,6 @@
 ## :hammer: Toolkit 1: Battery recycling
 
 ## :hammer: Toolkit 2: Battery usage impact evaluation
-
-Our landing page: [Landing page](https://baidu.com)  
-User documetation:   [User documetation](https://baidu.com)
+Description: 
+:link: Landing page: [Landing page](https://baidu.com)  
+:blue_book: User documetation:   [User documetation](https://baidu.com)
