@@ -1,4 +1,6 @@
 # Toolkits
+* Labeling Lithium Products to Promote Resource Recycling
+* Evaluate the impact for various batteries  
 
 ## :hammer: Toolkit 1: Battery recycling
 :link: [Landing page](https://google.com)  
