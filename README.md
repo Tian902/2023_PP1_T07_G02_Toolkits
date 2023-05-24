@@ -4,4 +4,5 @@
 
 ## :hammer: Toolkit 2: Battery usage impact evaluation
 
-[Landing page](https://baidu.com).
+Our landing page: [Landing page](https://baidu.com)
+User documetation:   [User documetation](https://baidu.com)
