@@ -1,6 +1,6 @@
 # Toolkits
-* Labeling lithium products to promote resource recycling
-* Evaluate the Impact when using various batteries  
+
+:smiley: Please check the link below to see more details of our toolkits.
 
 | | :hammer: Toolkit 1 | :hammer: Toolkit 2 |
 | :-: | :-: | :-: |
