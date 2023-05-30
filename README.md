@@ -1,6 +1,6 @@
 # Toolkits
 
-:smiley: Please check the link below to see more details of our toolkits.
+:smiley: *Please check the link below to see more details of our toolkits.*
 
 | | :hammer: Toolkit 1 | :hammer: Toolkit 2 |
 | :-: | :-: | :-: |
