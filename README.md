@@ -9,7 +9,8 @@
 :link: [Landing page](https://google.com)  
 :closed_book: [User documetation](https://google.com)  
 
-| | Command | Description |
+| | Toolkit 1 | Toolkit 2 |
 | --- | --- | --- |
-| Name | git status | List all new or modified files |
+| Name | Battery recycling | Battery usage impact evaluation |
+| Link | :link: [Landing page](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://google.com)   |
 | Description | git diff | Show file differences that haven't been staged |
