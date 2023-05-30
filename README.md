@@ -7,5 +7,9 @@
 
 ## :hammer: Toolkit 2: Battery usage impact evaluation
 :link: [Landing page](https://google.com)  
-:closed_book: [User documetation](https://google.com)
+:closed_book: [User documetation](https://google.com)  
 
+| | Command | Description |
+| --- | --- | --- |
+| Name | git status | List all new or modified files |
+| Description | git diff | Show file differences that haven't been staged |
