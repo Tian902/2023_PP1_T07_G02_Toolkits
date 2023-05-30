@@ -7,7 +7,10 @@
 | **Topic** | Battery recycling | Battery usage impact evaluation |
 | **Link** | :link: [Storymaps](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://responsible-camellia-1vcc12.mysxl.cn/), :closed_book:[User documentation](www.google.com) |
 | **Description** | A comprehensive guide to the safe and sustainable use of lithium batteries.  | An assessment framework for evaluating the potential impact of battery usage. |
-| Details | Project Scope: The toolkit addresses the comprehensive lifecycle management of lithium batteries, with an emphasis on standardization and sustainable use. 
+
+# More detials
+# Toolkit 1
+Project Scope: The toolkit addresses the comprehensive lifecycle management of lithium batteries, with an emphasis on standardization and sustainable use. 
 
 Strategy: The goal is to build a sustainable future for lithium batteries through innovative design, safety measures, and effective recycling methods. 
 
@@ -21,4 +24,4 @@ Handling and Storage:Provides practical solutions for the safe handling, storage
 
 Manufacturing, Distribution and Supply Chain: This toolkit explores the fundamental aspects of manufacturing, distributing and maintaining a supply chain that prioritizes sustainability and resource recovery. 
 
-Safety: Safety is paramount with the introduction of a unique color-changing material on the battery that provides a visual alert if the battery becomes unsafe. The labeling protocol further enhances security by ensuring that essential information is clearly visible on each battery.  |  |
+Safety: Safety is paramount with the introduction of a unique color-changing material on the battery that provides a visual alert if the battery becomes unsafe. The labeling protocol further enhances security by ensuring that essential information is clearly visible on each battery. 
