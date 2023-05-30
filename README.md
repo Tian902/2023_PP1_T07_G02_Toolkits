@@ -5,7 +5,7 @@
 | | :hammer: Toolkit 1 | :hammer: Toolkit 2 |
 | :-: | :-: | :-: |
 | **Topic** | Battery recycling | Battery usage impact evaluation |
-| **Link** | :link: [Storymaps](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://responsible-camellia-1vcc12.mysxl.cn/), :closed_book:[User documentation](www.google.com) |
+| **Link** | :link: [Storymaps](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://responsible-camellia-1vcc12.mysxl.cn/), :closed_book:[User documentation](https://github.com/Tian902/2023_PP1_T07_G02_Toolkits/blob/main/Toolkit%202%20Documentation.pdf) |
 | **Description** | A comprehensive guide to the safe and sustainable use of lithium batteries.  | An assessment framework for evaluating the potential impact of battery usage. |
 
 # Take-home information
