@@ -9,7 +9,7 @@
 :link: [Landing page](https://google.com)  
 :closed_book: [User documetation](https://google.com)  
 
-| | Toolkit 1 | Toolkit 2 |
+| | :hammer: Toolkit 1 | :hammer: Toolkit 2 |
 | --- | --- | --- |
 | Name | Battery recycling | Battery usage impact evaluation |
 | Link | :link: [Landing page](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://google.com)   |
