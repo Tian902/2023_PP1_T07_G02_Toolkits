@@ -9,7 +9,7 @@
 | **Description** | A comprehensive guide to the safe and sustainable use of lithium batteries.  | An assessment framework for evaluating the potential impact of battery usage. |
 
 # Take-home information
-## Toolkit 1
+## :hammer: Toolkit 1
 | **Item** | **Description** |
 | --- | --- |
 | Project Scope | The toolkit addresses the comprehensive lifecycle management of lithium batteries, with an emphasis on standardization and sustainable use. | 
@@ -21,7 +21,7 @@
 | Manufacturing, Distribution and Supply Chain| This toolkit explores the fundamental aspects of manufacturing, distributing and maintaining a supply chain that prioritizes sustainability and resource recovery. |
 | Safety | Safety is paramount with the introduction of a unique color-changing material on the battery that provides a visual alert if the battery becomes unsafe. The labeling protocol further enhances security by ensuring that essential information is clearly visible on each battery. |
 
-## Toolkit 2  
+## :hammer: Toolkit 2  
 | **Item** | **Description** |
 | --- | ---|
 | Motivation| Help people to evaluate the impact of their battery usage.|
