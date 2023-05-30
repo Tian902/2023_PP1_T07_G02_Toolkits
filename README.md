@@ -27,3 +27,4 @@
 | Motivation| Help people to evaluate the impact of their battery usage.|
 | Evaluation metrics| Battery transportation, material consumption, extraction pollution, battery security, battery Cycle life, recycle rate.| 
 | Evaluation process | 1.Identify your battery; 2.Assess the battery impact; 3. Get the impact outcome.|
+| Strength | Easy and fast to evalulate your battery impact.|
