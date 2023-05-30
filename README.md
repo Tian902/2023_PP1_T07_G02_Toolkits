@@ -8,7 +8,7 @@
 | **Link** | :link: [Storymaps](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://responsible-camellia-1vcc12.mysxl.cn/), :closed_book:[User documentation](www.google.com) |
 | **Description** | A comprehensive guide to the safe and sustainable use of lithium batteries.  | An assessment framework for evaluating the potential impact of battery usage. |
 
-# More details
+# Take-home message
 ## Toolkit 1
 | **Item** | **Description** |
 | --- | --- |
