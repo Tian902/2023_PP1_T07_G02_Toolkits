@@ -10,8 +10,10 @@
 
 # More details
 ## Toolkit 1
-* Project Scope *: The toolkit addresses the comprehensive lifecycle management of lithium batteries, with an emphasis on standardization and sustainable use.   
-* Strategy *: The goal is to build a sustainable future for lithium batteries through innovative design, safety measures, and effective recycling methods.   
+| | |
+| :-: | :-: |
+| Project Scope | The toolkit addresses the comprehensive lifecycle management of lithium batteries, with an emphasis on standardization and sustainable use. | 
+|Strategy| The goal is to build a sustainable future for lithium batteries through innovative design, safety measures, and effective recycling methods. |
 * Innovation: The toolkit highlights innovative strategies to improve the sustainability of the lithium battery lifecycle (from manufacturing to disposal).   
 * Standardization: It presents seven standard sizes of LiPo batteries (P6 to P0) designed to accommodate a wide range of devices.   
 * Design: This toolkit presents a common battery design that is safe, easy to handle and disassemble, and designed to promote recycling.   
@@ -21,4 +23,4 @@
 
 ## Toolkit 2  
 * Motivation: Help people to evaluate the impact of their battery usage.  
-* 
+* Evaluation metrics: Battery transportation, material consumption, Extraction pollution
