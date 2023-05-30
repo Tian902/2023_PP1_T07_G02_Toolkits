@@ -13,4 +13,4 @@
 | --- | --- | --- |
 | Name | Battery recycling | Battery usage impact evaluation |
 | Link | :link: [Landing page](https://storymaps.arcgis.com/stories/2006a91575e24392820666473f43ac2a) | :link: [Landing page](https://google.com)   |
-| Description | This toolkit is a comprehensive guide to the safe and sustainable use of lithium batteries.  | an assessment framework for evaluating the potential impact when people use batteries. |
+| Description | A comprehensive guide to the safe and sustainable use of lithium batteries.  | an assessment framework for evaluating the potential impact when people use batteries. |
