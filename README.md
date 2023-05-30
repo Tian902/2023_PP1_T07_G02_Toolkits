@@ -10,7 +10,6 @@
 
 # More details
 ## Toolkit 1
-| | |
 | --- | --- |
 | Project Scope | The toolkit addresses the comprehensive lifecycle management of lithium batteries, with an emphasis on standardization and sustainable use. | 
 |Strategy| The goal is to build a sustainable future for lithium batteries through innovative design, safety measures, and effective recycling methods. |
@@ -22,5 +21,6 @@
 | Safety | Safety is paramount with the introduction of a unique color-changing material on the battery that provides a visual alert if the battery becomes unsafe. The labeling protocol further enhances security by ensuring that essential information is clearly visible on each battery. |
 
 ## Toolkit 2  
-* Motivation: Help people to evaluate the impact of their battery usage.  
-* Evaluation metrics: Battery transportation, material consumption, Extraction pollution
+| --- | ---|
+| Motivation| Help people to evaluate the impact of their battery usage.|
+| Evaluation metrics| Battery transportation, material consumption, extraction pollution, battery security, battery Cycle life, recycle rate.|
